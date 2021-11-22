@@ -1,7 +1,7 @@
 # Проект «Киноман»
 
 * Студент: [Роман Колесников](https://up.htmlacademy.ru/ecmascript/16/user/76159).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий (sench) Железцов](https://htmlacademy.ru/profile/sench).
 
 ---
 
